@@ -1,60 +1,70 @@
-# SupaChat
+# Getting Started with Create React App
 
-SupaChat is a web-based chat application that makes online communication easy and accessible for everyone. With SupaChat, you can effortlessly connect with friends, family, or colleagues, all by simply signing in using your Google account.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Features
+## Available Scripts
 
-- **Easy Sign-In**: Say goodbye to long registration forms and passwords. SupaChat allows you to sign in quickly and securely using your Google account.
+In the project directory, you can run:
 
-- **Real-time Chat**: Engage in real-time conversations with your contacts, whether it's one-on-one or in group chats.
+### `npm start`
 
-- **User-friendly Interface**: SupaChat offers an intuitive and user-friendly interface that makes it easy for users of all levels to navigate and chat comfortably.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- **Emoji Support**: Express yourself better with a wide range of emojis to choose from. Add a touch of fun to your conversations.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- **Responsive Design**: SupaChat is designed to work seamlessly on both desktop and mobile devices, so you can chat on the go.
+### `npm test`
 
-## Getting Started
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-To get started with SupaChat, follow these simple steps:
+### `npm run build`
 
-1. Visit the SupaChat website [here.](https://www.supachat.netlify.app).
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-2. Click on the "Sign In with Google" button to log in with your Google account.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-3. Once logged in, you can start chatting with your contacts or create new chats.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Contributing
+### `npm run eject`
 
-We welcome contributions from the open-source community. If you'd like to contribute to SupaChat, please follow these steps:
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-1. Fork the repository.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-2. Clone the repository to your local machine.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-```bash
-git clone https://github.com/ayushhhthakur/SupaChat.git
-```
-3. Create a new branch for your feature or bug fix.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-```bash
-git checkout -b feature/your-feature
-```
-Make your changes and commit them with descriptive commit messages.
+## Learn More
 
-4. Push your changes to your forked repository.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-```bash
-git push origin feature/your-feature
-```
-Create a pull request to the main repository.
-Issues and Feedback
-If you encounter any issues or have feedback for us, please open an issue on the GitHub repository.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-## License
-SupaChat is released under the MIT License. Feel free to use and modify it according to your needs.
+### Code Splitting
 
-## Contact
-If you have any questions or need assistance, you can reach us at contact@supachat.com.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-Thank you for using SupaChat! We hope you enjoy using it as much as we enjoyed building it. Happy chatting!
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
