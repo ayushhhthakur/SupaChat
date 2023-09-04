@@ -36,7 +36,6 @@ We welcome contributions from the open-source community. If you'd like to contri
 git clone https://github.com/ayushhhthakur/SupaChat.git
 ```
 3. Create a new branch for your feature or bug fix.
-Copy code
 
 ```bash
 git checkout -b feature/your-feature
@@ -45,7 +44,6 @@ Make your changes and commit them with descriptive commit messages.
 
 4. Push your changes to your forked repository.
 
-Copy code
 ```bash
 git push origin feature/your-feature
 ```
