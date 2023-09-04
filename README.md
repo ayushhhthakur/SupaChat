@@ -18,7 +18,7 @@ WebConvo is a web-based chat application that makes online communication easy an
 
 To get started with WebConvo, follow these simple steps:
 
-1. Visit the WebConvo website [here.](https://www.WebConvo.netlify.app).
+1. Visit the WebConvo website [here.](https://webconvo.netlify.app).
 
 2. Click on the "Sign In with Google" button to log in with your Google account.
 
