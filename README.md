@@ -54,7 +54,6 @@ If you encounter any issues or have feedback for us, please open an issue on the
 ## License
 WebConvo is released under the MIT License. Feel free to use and modify it according to your needs.
 
-## Contact
-If you have any questions or need assistance, you can reach us at contact@WebConvo.com.
+
 
 Thank you for using WebConvo! We hope you enjoy using it as much as we enjoyed building it. Happy chatting!
