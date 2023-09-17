@@ -16,7 +16,7 @@ function BottomMenu() {
                 name="Chat"
                 component={Chat}
                 options={{
-                    tabBarLabel: 'Chat',
+                    tabBarLabel: 'Chats',
                     tabBarIcon: ({ color, size }) => (
                         <Icon name="ios-chatbubbles" color={color} size={size} />
                     ),
