@@ -10,40 +10,40 @@ import Profile from './Profile';
 const Tab = createBottomTabNavigator();
 
 function BottomMenu() {
-  return (
-    <Tab.Navigator>
-      <Tab.Screen
-        name="Quiz"
-        component={Quiz}
-        options={{
-          tabBarLabel: 'Quiz',
-          tabBarIcon: ({ color, size }) => (
-            <Icon name="ios-quiz" color={color} size={size} />
-          ),
-        }}
-      />
-      <Tab.Screen
-        name="Chat"
-        component={Chat}
-        options={{
-          tabBarLabel: 'Chat',
-          tabBarIcon: ({ color, size }) => (
-            <Icon name="ios-chatbubbles" color={color} size={size} />
-          ),
-        }}
-      />
-      <Tab.Screen
-        name="Profile"
-        component={Profile}
-        options={{
-          tabBarLabel: 'Profile',
-          tabBarIcon: ({ color, size }) => (
-            <Icon name="ios-person" color={color} size={size} />
-          ),
-        }}
-      />
-    </Tab.Navigator>
-  );
+    return (
+        <Tab.Navigator>
+            <Tab.Screen
+                name="Chat"
+                component={Chat}
+                options={{
+                    tabBarLabel: 'Chat',
+                    tabBarIcon: ({ color, size }) => (
+                        <Icon name="ios-chatbubbles" color={color} size={size} />
+                    ),
+                }}
+            />
+            <Tab.Screen
+                name="Quiz"
+                component={Quiz}
+                options={{
+                    tabBarLabel: 'Quiz',
+                    tabBarIcon: ({ color, size }) => (
+                        <Icon name="ios-quiz" color={color} size={size} />
+                    ),
+                }}
+            />
+            <Tab.Screen
+                name="Profile"
+                component={Profile}
+                options={{
+                    tabBarLabel: 'Profile',
+                    tabBarIcon: ({ color, size }) => (
+                        <Icon name="ios-person" color={color} size={size} />
+                    ),
+                }}
+            />
+        </Tab.Navigator>
+    );
 }
 
 export default BottomMenu;
