@@ -1,6 +1,6 @@
 # WebConvo
 
-WebConvo is a web-based chat application that makes online communication easy and accessible for everyone. With WebConvo, you can effortlessly connect with friends, family, or colleagues, all by simply signing in using your Google account.
+WebConvo is a web-based/app-based chat application that makes online communication easy and accessible for everyone. With WebConvo, you can effortlessly connect with friends, family, or colleagues, all by simply signing in using your Google account.
 
 ## Features
 
